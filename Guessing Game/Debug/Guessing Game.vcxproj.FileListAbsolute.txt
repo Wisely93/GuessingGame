@@ -1,0 +1,2 @@
+C:\Users\Ngpoh\Desktop\c++\Guessing Game\Debug\Guessing Game.exe
+C:\Users\Ngpoh\Desktop\c++\Guessing Game\Debug\Guessing Game.pdb
